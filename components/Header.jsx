@@ -16,7 +16,7 @@ const Header = () => {
         <details>
         <summary>PELAYANAN</summary>
         <ul className="p-2" >
-                <li><a href="/maintenance">Cari Dokter</a></li>
+                <li><a href="/Dokter">Cari Dokter</a></li>
                 <li><a href="/Admisi">Admisi</a></li>
                 <li><a href="/Alur">Alur Pelayanan</a></li>
                 <li><a href="/Poliklinik">Poliklinik</a></li>
@@ -86,7 +86,7 @@ const Header = () => {
             <div className="dropdown dropdown-hover">
             <div tabIndex={0} role="button" className="font-bold py-5 px-7 bg-white rounded-box text-black">PELAYANAN</div>
                 <ul tabIndex={0} className="dropdown-content z-[1] menu p-2 shadow bg-blue-950 text-white hover rounded-box w-52">
-                    <li><a href="/maintenance">Cari Dokter</a></li>
+                    <li><a href="/Dokter">Cari Dokter</a></li>
                     <li><a href="/Admisi">Admisi</a></li>
                     <li><a href="/Alur">Alur Pelayanan</a></li>
                     <li><a href="/Poliklinik">Poliklinik</a></li>
