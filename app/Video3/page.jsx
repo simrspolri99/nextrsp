@@ -6,25 +6,9 @@ const Video = () => {
       <h1 className="text-3xl text-black p-2 mt-32 text-center rounded-full font-bold">VIDEO</h1>
       <div className="flex flex-wrap justify-center">
 
+     
 
-
-
-      <div className="max-w-sm m-4 rounded overflow-hidden shadow-lg bg-white">
-          <div className="relative">
-            <iframe
-              className="w-full h-48 object-cover rounded-t"
-              src="https://www.youtube.com/embed/n8thhRqi6vE?si=9oFs8y692xQIYekT" 
-              title="YouTube video player"
-              frameBorder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-            ></iframe>
-          </div>
-          <div className="px-6 py-4">
-            <div className="font-bold text-xl mb-2 text-center">PENANDATANGANAN PERJANJIAN KERJASAMA DI UNIVERSITAS PERTAHANAN RI</div>
-          </div>
-        </div>
-
+      
 <div className="max-w-sm m-4 rounded overflow-hidden shadow-lg bg-white">
 <div className="relative">
   <iframe
@@ -38,22 +22,6 @@ const Video = () => {
 </div>
 <div className="px-6 py-4">
   <div className="font-bold text-xl mb-2 text-center">OPERASI KATARAK GRATIS DENGAN PHACOEMULSIFIKASI</div>
-</div>
-</div>
-
-<div className="max-w-sm m-4 rounded overflow-hidden shadow-lg bg-white">
-<div className="relative">
-  <iframe
-    className="w-full h-48 object-cover rounded-t"
-    src="https://www.youtube.com/embed/KFb9Wg8sWw8?si=VbYlwkm7wEUn5UrI"
-    title="YouTube video player"
-    frameBorder="0"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowFullScreen
-  ></iframe>
-</div>
-<div className="px-6 py-4">
-  <div className="font-bold text-xl mb-2 text-center">ALUR PENDAFTARAN ONLINE RAWAT JALAN</div>
 </div>
 </div>
 
