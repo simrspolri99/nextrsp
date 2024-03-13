@@ -8,7 +8,22 @@ const Unggulan = () => {
         <h1 className="text-3xl font-bold mt-8">BERITA TERKINI</h1>
         <div className="flex overflow-x-scroll p-4 sm:p-8">
             {/* Repeat the same structure for additional cards */}
-          
+
+            <div className="card card-compact bg-base-100 shadow-xl flex-none w-80 mr-4">
+            {/* ... Card content */}
+            <figure>
+                <Image src="/berita10.jpeg" width="1368" height="768" alt="pertama" className="w-full h-48 object-cover" />
+            </figure>
+            <div className="card-body">
+                <h2 className="card-title text-lg font-bold">RUMAH SAKIT BHAYANGKARA TK.I PUSDOKKES POLRI RESMIKAN RUANG OPERASI MODULAR OPERATING THEATRE (MOT)</h2>
+                <div className="card-actions justify-end mt-4">
+                <Link href="/berita10">
+                <button className="btn bg-blue-900 text-white">BACA</button>
+                </Link>
+                </div>
+            </div>
+            </div>
+
             <div className="card card-compact bg-base-100 shadow-xl flex-none w-80 mr-4">
             {/* ... Card content */}
             <figure>

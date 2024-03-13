@@ -6,6 +6,8 @@ const Video = () => {
       <h1 className="text-3xl text-black p-2 mt-32 text-center rounded-full font-bold">VIDEO</h1>
       <div className="flex flex-wrap justify-center">
 
+    
+
       <div className="max-w-sm m-4 rounded overflow-hidden shadow-lg bg-white">
 <div className="relative">
   <iframe
@@ -21,6 +23,24 @@ const Video = () => {
   <div className="font-bold text-xl mb-2 text-center">ALUR PENDAFTARAN ONLINE RAWAT JALAN</div>
 </div>
 </div>
+
+<div className="max-w-sm m-4 rounded overflow-hidden shadow-lg bg-white">
+          <div className="relative">
+            <iframe
+              className="w-full h-48 object-cover rounded-t"
+              src="https://www.youtube.com/embed/7uDtKpHPs7A" 
+              title="YouTube video player"
+              frameBorder="0"
+              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            ></iframe>
+          </div>
+
+          <div className="px-6 py-4">
+            <div className="font-bold text-xl mb-2 text-center">NGOPI RUSARI Eps. 24 | MENGENAL DSA (DIGITAL SUBTRACTION ANGIOGRAPHY)
+</div>
+          </div>
+        </div>
 
       <div className="max-w-sm m-4 rounded overflow-hidden shadow-lg bg-white">
           <div className="relative">
@@ -91,27 +111,12 @@ const Video = () => {
           </div>
 
           <div className="px-6 py-4">
-            <div className="font-bold text-xl mb-2 text-center">NGOPI RUSARI Eps. 21 | NGOPI RUSARI Eps. 21 | TOUR OF DUTY & TOUR OF AREA 
+            <div className="font-bold text-xl mb-2 text-center">NGOPI RUSARI Eps. 21 | TOUR OF DUTY & TOUR OF AREA 
 </div>
           </div>
         </div>
       
-        <div className="max-w-sm m-4 rounded overflow-hidden shadow-lg bg-white">
-          <div className="relative">
-            <iframe
-              className="w-full h-48 object-cover rounded-t"
-              src="https://www.youtube.com/embed/MDb4c5N0ZsA" 
-              title="YouTube video player"
-              frameBorder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-            ></iframe>
-          </div>
-
-          <div className="px-6 py-4">
-            <div className="font-bold text-xl mb-2 text-center">NGOPI RUSARI Eps. 20 | NGOPI RUSARI Eps. 20 | TUNTASKAN BATU GINJAL DENGAN ESWL</div>
-          </div>
-        </div>
+        
 
 
    

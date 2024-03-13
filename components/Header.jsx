@@ -140,8 +140,8 @@ const Header = () => {
     </div>
    
     <div className="navbar-end mr-7">
-        <Link href="/maintenance">
-        <button className="btn bg-blue-900 px-6 text-white" >LOG IN</button>
+        <Link href="https://t.me/esurveypolri_bot">
+        <button className="btn bg-blue-900 px-6 text-white" >E-Survey POLRI</button>
         </Link>
     </div>
     

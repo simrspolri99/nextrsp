@@ -22,6 +22,24 @@ const VideoLayout = () => {
 </div>
 </div>
 
+<div className="max-w-sm m-4 rounded overflow-hidden shadow-lg bg-white">
+          <div className="relative">
+            <iframe
+              className="w-full h-48 object-cover rounded-t"
+              src="https://www.youtube.com/embed/7uDtKpHPs7A" 
+              title="YouTube video player"
+              frameBorder="0"
+              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            ></iframe>
+          </div>
+
+          <div className="px-6 py-4">
+            <div className="font-bold text-xl mb-2 text-center">NGOPI RUSARI Eps. 24 | MENGENAL DSA (DIGITAL SUBTRACTION ANGIOGRAPHY)
+</div>
+          </div>
+        </div>
+
       <div className="max-w-sm m-4 rounded overflow-hidden shadow-lg bg-white">
           <div className="relative">
             <iframe
@@ -35,7 +53,7 @@ const VideoLayout = () => {
           </div>
 
           <div className="px-6 py-4">
-            <div className="font-bold text-xl mb-2 text-center">MEMPERINGATI HARI ISRA MIRAJ NABI MUHAMMAD SAW 1445 H / 2024
+            <div className="font-bold text-xl mb-2 text-center">NGOPI RUSARI Eps. 23 | ESTETIKA KECANTIKAN DAN AGING
 </div>
           </div>
         </div>
@@ -94,22 +112,7 @@ const VideoLayout = () => {
           </div>
         </div>
 
-      <div className="max-w-sm m-4 rounded overflow-hidden shadow-lg bg-white">
-          <div className="relative">
-            <iframe
-              className="w-full h-48 object-cover rounded-t"
-              src="https://www.youtube.com/embed/MDb4c5N0ZsA" 
-              title="YouTube video player"
-              frameBorder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-            ></iframe>
-          </div>
-
-          <div className="px-6 py-4">
-            <div className="font-bold text-xl mb-2 text-center">NGOPI RUSARI Eps. 20 | NGOPI RUSARI Eps. 20 | TUNTASKAN BATU GINJAL DENGAN ESWL</div>
-          </div>
-        </div>
+    
 
       
     

@@ -10,6 +10,21 @@ const Page = () => {
        
         <div className="card m-4 w-80 bg-base-100 shadow-xl flex flex-col">
             <figure>
+                <Image src="/berita10.jpeg" width="1368" height="768" alt="Fotoranap" className="h-60"  />
+            </figure>
+            <div className="card-body flex flex-col justify-between">
+                <h2 className="card-title">RUMAH SAKIT BHAYANGKARA TK.I PUSDOKKES POLRI RESMIKAN RUANG OPERASI MODULAR OPERATING THEATRE (MOT)</h2>
+                <p></p>
+                <div className="card-actions justify-end mt-auto">
+                <Link href="/berita10">
+                <button className="btn bg-blue-900 text-white">BACA</button>
+                </Link>
+                </div>
+            </div>
+            </div>
+
+        <div className="card m-4 w-80 bg-base-100 shadow-xl flex flex-col">
+            <figure>
                 <Image src="/tugasfebruari.jpeg" width="1368" height="768" alt="Fotoranap" className="h-60"  />
             </figure>
             <div className="card-body flex flex-col justify-between">

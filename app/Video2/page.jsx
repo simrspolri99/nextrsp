@@ -10,18 +10,19 @@ const Video = () => {
           <div className="relative">
             <iframe
               className="w-full h-48 object-cover rounded-t"
-              src="https://www.youtube.com/embed/_2ksLJ9ktbU?si=Wd_1I7nBA_50PMhh"
+              src="https://www.youtube.com/embed/MDb4c5N0ZsA" 
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
             ></iframe>
           </div>
+
           <div className="px-6 py-4">
-            <div className="font-bold text-xl mb-2 text-center">NGOPI RUSARI Eps. 18 | THE SENIOR POLICE TALK PART 2</div>
+            <div className="font-bold text-xl mb-2 text-center">NGOPI RUSARI Eps. 20 | TUNTASKAN BATU GINJAL DENGAN ESWL</div>
           </div>
         </div>
-      
+
         <div className="max-w-sm m-4 rounded overflow-hidden shadow-lg bg-white">
           <div className="relative">
             <iframe
@@ -38,6 +39,21 @@ const Video = () => {
           </div>
         </div>
 
+<div className="max-w-sm m-4 rounded overflow-hidden shadow-lg bg-white">
+          <div className="relative">
+            <iframe
+              className="w-full h-48 object-cover rounded-t"
+              src="https://www.youtube.com/embed/_2ksLJ9ktbU?si=Wd_1I7nBA_50PMhh"
+              title="YouTube video player"
+              frameBorder="0"
+              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            ></iframe>
+          </div>
+          <div className="px-6 py-4">
+            <div className="font-bold text-xl mb-2 text-center">NGOPI RUSARI Eps. 18 | THE SENIOR POLICE TALK PART 2</div>
+          </div>
+        </div>
 
       <div className="max-w-sm m-4 rounded overflow-hidden shadow-lg bg-white">
           <div className="relative">
@@ -87,22 +103,7 @@ const Video = () => {
           </div>
         </div>
 
-        <div className="max-w-sm m-4 rounded overflow-hidden shadow-lg bg-white">
-          <div className="relative">
-            <iframe
-              className="w-full h-48 object-cover rounded-t"
-              src="https://www.youtube.com/embed/n8thhRqi6vE?si=9oFs8y692xQIYekT" 
-              title="YouTube video player"
-              frameBorder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-            ></iframe>
-          </div>
-          <div className="px-6 py-4">
-            <div className="font-bold text-xl mb-2 text-center">PENANDATANGANAN PERJANJIAN KERJASAMA DI UNIVERSITAS PERTAHANAN RI</div>
-          </div>
-        </div>
- 
+       
       
       
         
