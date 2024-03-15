@@ -39,7 +39,7 @@ const AboutRS = () => {
 
         {/* Column 4 */}
         <div className="bg-white text-black p-4 rounded-md shadow-md">
-          <Image src="/5.jpeg" alt="Image 4" width="1000" height="1000" className="w-full h-52 object-cover mb-4 rounded-md" />
+          <Image src="/5.png" alt="Image 4" width="1000" height="1000" className="w-full h-52 object-cover mb-4 rounded-md" />
           <h4 className="text-lg font-semibold">Layanan Gawat Darurat</h4>
           <p className="text-sm">
             Rumah Sakit Kami Melayani Pasien Gawat Darurat 24 Jam dengan Jumlah Kapasitas Bed yang memadai.
