@@ -9,6 +9,7 @@ import Tombol from '@/components/tombol'
 import Videolay from '@/components/videolay'
 import Survey from '@/components/survey'
 import Beritalay from '@/components/beritalay'
+import Lapor from '@/components/Lapor'
 
 
 
@@ -17,6 +18,7 @@ const Home = () => {
     <div>
       <Carousel />
       <Tombol />
+      <Lapor />
       <AboutRS />
       <Hero />
       <Pju />

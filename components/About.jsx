@@ -11,7 +11,7 @@ const AboutRS = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
         {/* Column 1 */}
         <div className="bg-white text-black p-4 rounded-md shadow-md">
-          <Image src="/1.png" alt="Image 1" width="1000" height="1000" className="w-full h-52 object-cover mb-4 rounded-md" />
+          <Image src="/6.png" alt="Image 1" width="1000" height="1000" className="w-full h-52 object-cover mb-4 rounded-md" />
           <h4 className="text-lg font-semibold">Pelayanan Presisi & Paripurna</h4>
           <p className="text-sm">
             Rumah Sakit Bhayangkara Tk. I Pusdokkes Polri Berkomitmen Memberikan Pelayanan Terbaik Kami.
@@ -39,7 +39,7 @@ const AboutRS = () => {
 
         {/* Column 4 */}
         <div className="bg-white text-black p-4 rounded-md shadow-md">
-          <Image src="/1.png" alt="Image 4" width="1000" height="1000" className="w-full h-52 object-cover mb-4 rounded-md" />
+          <Image src="/5.png" alt="Image 4" width="1000" height="1000" className="w-full h-52 object-cover mb-4 rounded-md" />
           <h4 className="text-lg font-semibold">Layanan Gawat Darurat</h4>
           <p className="text-sm">
             Rumah Sakit Kami Melayani Pasien Gawat Darurat 24 Jam dengan Jumlah Kapasitas Bed yang memadai.
