@@ -12,6 +12,21 @@ const Unggulan = () => {
             <div className="card card-compact bg-base-100 shadow-xl flex-none w-80 mr-4">
             {/* ... Card content */}
             <figure>
+                <Image src="/berita12.jpeg" width="1368" height="768" alt="pertama" className="w-full h-48 object-cover" />
+            </figure>
+            <div className="card-body">
+                <h2 className="card-title text-lg font-bold">MENINGKATKAN KAPASITAS KEDOKTERAN FORENSIK DAN VISUM: RS BHAYANGKARA TK. I PUSDOKKES POLRI GELAR LATIHAN KERJA</h2>
+                <div className="card-actions justify-end mt-4">
+                <Link href="/berita12">
+                <button className="btn bg-blue-900 text-white">BACA</button>
+                </Link>
+                </div>
+            </div>
+            </div>
+
+            <div className="card card-compact bg-base-100 shadow-xl flex-none w-80 mr-4">
+            {/* ... Card content */}
+            <figure>
                 <Image src="/hasilpenelitian1.jpeg" width="1368" height="768" alt="pertama" className="w-full h-48 object-cover" />
             </figure>
             <div className="card-body">
