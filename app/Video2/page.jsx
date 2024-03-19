@@ -10,6 +10,24 @@ const Video = () => {
           <div className="relative">
             <iframe
               className="w-full h-48 object-cover rounded-t"
+              src="https://www.youtube.com/embed/AHaLtpmt-hs" 
+              title="YouTube video player"
+              frameBorder="0"
+              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            ></iframe>
+          </div>
+
+          <div className="px-6 py-4">
+            <div className="font-bold text-xl mb-2 text-center">NGOPI RUSARI Eps. 21 | TOUR OF DUTY & TOUR OF AREA 
+</div>
+          </div>
+        </div>
+
+      <div className="max-w-sm m-4 rounded overflow-hidden shadow-lg bg-white">
+          <div className="relative">
+            <iframe
+              className="w-full h-48 object-cover rounded-t"
               src="https://www.youtube.com/embed/MDb4c5N0ZsA" 
               title="YouTube video player"
               frameBorder="0"
@@ -87,21 +105,7 @@ const Video = () => {
           </div>
         </div>
 
-      <div className="max-w-sm m-4 rounded overflow-hidden shadow-lg bg-white">
-          <div className="relative">
-            <iframe
-              className="w-full h-48 object-cover rounded-t"
-              src="https://www.youtube.com/embed/-Yba5K7eOU8"
-              title="YouTube video player"
-              frameBorder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-            ></iframe>
-          </div>
-          <div className="px-6 py-4">
-            <div className="font-bold text-xl mb-2 text-center">KASUS EMPAT ORANG ANAK MENINGGAL DITANGAN AYAH KANDUNG</div>
-          </div>
-        </div>
+    
 
        
       

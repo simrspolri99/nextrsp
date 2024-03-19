@@ -26,6 +26,24 @@ const VideoLayout = () => {
           <div className="relative">
             <iframe
               className="w-full h-48 object-cover rounded-t"
+              src="https://www.youtube.com/embed/GSm6GHHqJKg" 
+              title="YouTube video player"
+              frameBorder="0"
+              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            ></iframe>
+          </div>
+
+          <div className="px-6 py-4">
+            <div className="font-bold text-xl mb-2 text-center">NGOPI RUSARI Eps. 25 | THE SENIOR POLICE TO TALK #4
+</div>
+          </div>
+        </div>
+
+<div className="max-w-sm m-4 rounded overflow-hidden shadow-lg bg-white">
+          <div className="relative">
+            <iframe
+              className="w-full h-48 object-cover rounded-t"
               src="https://www.youtube.com/embed/7uDtKpHPs7A" 
               title="YouTube video player"
               frameBorder="0"
@@ -94,24 +112,7 @@ const VideoLayout = () => {
           </div>
         </div>
 
-      <div className="max-w-sm m-4 rounded overflow-hidden shadow-lg bg-white">
-          <div className="relative">
-            <iframe
-              className="w-full h-48 object-cover rounded-t"
-              src="https://www.youtube.com/embed/AHaLtpmt-hs" 
-              title="YouTube video player"
-              frameBorder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-            ></iframe>
-          </div>
-
-          <div className="px-6 py-4">
-            <div className="font-bold text-xl mb-2 text-center">NGOPI RUSARI Eps. 21 | TOUR OF DUTY & TOUR OF AREA  
-</div>
-          </div>
-        </div>
-
+    
     
 
       

@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 
-const berita1 = () => {
+const berita2 = () => {
   return (
     <div className="">
       
@@ -28,4 +28,4 @@ const berita1 = () => {
   )
 }
 
-export default berita1
+export default berita2

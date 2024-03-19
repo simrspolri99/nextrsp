@@ -6,7 +6,22 @@ const Video = () => {
       <h1 className="text-3xl text-black p-2 mt-32 text-center rounded-full font-bold">VIDEO</h1>
       <div className="flex flex-wrap justify-center">
 
-     
+      <div className="max-w-sm m-4 rounded overflow-hidden shadow-lg bg-white">
+          <div className="relative">
+            <iframe
+              className="w-full h-48 object-cover rounded-t"
+              src="https://www.youtube.com/embed/-Yba5K7eOU8"
+              title="YouTube video player"
+              frameBorder="0"
+              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            ></iframe>
+          </div>
+          <div className="px-6 py-4">
+            <div className="font-bold text-xl mb-2 text-center">KASUS EMPAT ORANG ANAK MENINGGAL DITANGAN AYAH KANDUNG</div>
+          </div>
+        </div>
+
       <div className="max-w-sm m-4 rounded overflow-hidden shadow-lg bg-white">
           <div className="relative">
             <iframe

@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 
-const berita1 = () => {
+const berita5 = () => {
   return (
     <div className="">
       <div className='flex flex-wrap justify-center mt-24'>
@@ -26,4 +26,4 @@ const berita1 = () => {
   )
 }
 
-export default berita1
+export default berita5
