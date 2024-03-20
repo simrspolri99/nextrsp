@@ -181,7 +181,7 @@ const Page = () => {
                 <h2 className="card-title">Psikologi</h2>
                 <p> </p>
                 <div className="card-actions justify-end">
-                <Link href="drpsikologi">
+                <Link href="psikologi">
                 <button className="btn bg-blue-900 text-white">LIHAT JADWAL</button>
                 </Link>
                 </div>
