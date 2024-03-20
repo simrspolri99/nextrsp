@@ -178,7 +178,7 @@ const Page = () => {
                 <Image src="/IKON DR.png" width="1368" height="768" alt="Shoes" />
             </figure>
             <div className="card-body">
-                <h2 className="card-title">Dokter Psikologi</h2>
+                <h2 className="card-title">Psikologi</h2>
                 <p> </p>
                 <div className="card-actions justify-end">
                 <Link href="drpsikologi">
