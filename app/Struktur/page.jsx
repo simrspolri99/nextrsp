@@ -12,7 +12,7 @@ const Struktur = () => {
 
         <h2 className="mt-6 mb-6 text-3xl font-bold">Pejabat Utama Rumah Sakit Bhayangkara Tk. I Pusdokkes Polri</h2>
       {/* Menambahkan kelas mx-auto untuk membuat gambar berada di tengah */}
-      <Image src="/KALENDER PJU PNG.png" alt="rsbp1" width="1368" height="768" className="mt-5 rounded-box max-w-5xl mx-auto w-full" />
+      <Image src="/pju.jpeg" alt="rsbp1" width="1368" height="768" className="mt-5 rounded-box max-w-5xl mx-auto w-full" />
 
     </div>
   );
