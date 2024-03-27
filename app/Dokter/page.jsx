@@ -5,8 +5,16 @@ import Link from 'next/link';
 const Page = () => {
     return (
         <div className="mt-24">
-        <h1 className="text-center text-3xl font-black">Jadwal Dokter</h1>
+        <h1 className="text-center text-3xl font-black">JADWAL DOKTER</h1>
         <div className="flex flex-wrap justify-center">
+     
+              <Link href="https://docs.google.com/spreadsheets/d/1OUklTJui4ysRcqr1M5-tRAjB-zCj3YGXWlCcbQf6hzI/edit?usp=drivesdk">
+                <button className="btn bg-blue-900 px-16 text-white text-4xl font-bold mt-6 mb-6">LINK JADWAL DOKTER ONLINE</button>
+              </Link>
+            </div>
+          
+        <div className="flex flex-wrap justify-center">
+            
 
             <div className="card m-4 w-80 bg-base-100 shadow-xl">
             <figure>
