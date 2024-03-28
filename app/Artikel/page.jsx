@@ -10,6 +10,36 @@ const Page = () => {
        
         <div className="card m-4 w-80 bg-base-100 shadow-xl flex flex-col">
             <figure>
+                <Image src="/berita15.jpeg" width="1368" height="768" alt="Fotoranap" className="h-60"  />
+            </figure>
+            <div className="card-body flex flex-col justify-between">
+                <h2 className="card-title">PENYERAHAN 3000 PAKET SEMBAKO SECARA SIMBOLIS KEPADA STAF RUMAH SAKIT BHAYANGKARA TK.I PUSDOKKES POLRI</h2>
+                <p></p>
+                <div className="card-actions justify-end mt-auto">
+                <Link href="/berita15">
+                <button className="btn bg-blue-900 text-white">BACA</button>
+                </Link>
+                </div>
+            </div>
+            </div>
+
+            <div className="card m-4 w-80 bg-base-100 shadow-xl flex flex-col">
+            <figure>
+                <Image src="/berita14.jpeg" width="1368" height="768" alt="Fotoranap" className="h-60"  />
+            </figure>
+            <div className="card-body flex flex-col justify-between">
+                <h2 className="card-title">RS BHAYANGKARA TK.I PUSDOKKES POLRI GELAR PELATIHAN PENINGKATAN MUTU DAN KESELAMATAN PASIEN</h2>
+                <p></p>
+                <div className="card-actions justify-end mt-auto">
+                <Link href="/berita14">
+                <button className="btn bg-blue-900 text-white">BACA</button>
+                </Link>
+                </div>
+            </div>
+            </div>
+
+        <div className="card m-4 w-80 bg-base-100 shadow-xl flex flex-col">
+            <figure>
                 <Image src="/berita13(1).jpeg" width="1368" height="768" alt="Fotoranap" className="h-60"  />
             </figure>
             <div className="card-body flex flex-col justify-between">

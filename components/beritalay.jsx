@@ -12,6 +12,36 @@ const Unggulan = () => {
             <div className="card card-compact bg-base-100 shadow-xl flex-none w-80 mr-4">
             {/* ... Card content */}
             <figure>
+                <Image src="/berita15.jpeg" width="1368" height="768" alt="pertama" className="w-full h-48 object-cover" />
+            </figure>
+            <div className="card-body">
+                <h2 className="card-title text-lg font-bold">PENYERAHAN 3000 PAKET SEMBAKO SECARA SIMBOLIS KEPADA STAF RUMAH SAKIT BHAYANGKARA TK.I PUSDOKKES POLRI</h2>
+                <div className="card-actions justify-end mt-4">
+                <Link href="/berita15">
+                <button className="btn bg-blue-900 text-white">BACA</button>
+                </Link>
+                </div>
+            </div>
+            </div>
+
+            <div className="card card-compact bg-base-100 shadow-xl flex-none w-80 mr-4">
+            {/* ... Card content */}
+            <figure>
+                <Image src="/berita14.jpeg" width="1368" height="768" alt="pertama" className="w-full h-48 object-cover" />
+            </figure>
+            <div className="card-body">
+                <h2 className="card-title text-lg font-bold">RS BHAYANGKARA TK.I PUSDOKKES POLRI GELAR PELATIHAN PENINGKATAN MUTU DAN KESELAMATAN PASIEN</h2>
+                <div className="card-actions justify-end mt-4">
+                <Link href="/berita14">
+                <button className="btn bg-blue-900 text-white">BACA</button>
+                </Link>
+                </div>
+            </div>
+            </div>
+
+            <div className="card card-compact bg-base-100 shadow-xl flex-none w-80 mr-4">
+            {/* ... Card content */}
+            <figure>
                 <Image src="/berita13(1).jpeg" width="1368" height="768" alt="pertama" className="w-full h-48 object-cover" />
             </figure>
             <div className="card-body">
